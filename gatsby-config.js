@@ -6,4 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: 'Kuhil to rule the world',
+    author: 'Tridiv Sharma'
+  },
+  plugins: [`gatsby-plugin-sass`]
 }
